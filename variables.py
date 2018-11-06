@@ -25,7 +25,7 @@ def variables():
     #Try taking bInt to the power of aInt
     power = bInt ** aInt
     # How often does aInt fit in bInt
-   fitInto = bInt / aInt
+    fitInto = bInt / aInt
 
 
     #Ignore for now:
